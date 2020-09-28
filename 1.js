@@ -1,7 +1,3 @@
-function Dog(age, name) {
-  this.age = age;
+function Dog(name) {
   this.name = name;
-  run = function () {
-    console.log("Run run");
-  };
 }
